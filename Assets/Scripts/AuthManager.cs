@@ -186,7 +186,7 @@ public class AuthManager : MonoBehaviour
                     {
                         //Username is now set
                         //Now return to login screen
-                        
+                       
                         warningRegisterText.text = "";
                     }
                 }
